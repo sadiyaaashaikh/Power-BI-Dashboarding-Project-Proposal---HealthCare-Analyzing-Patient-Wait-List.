@@ -1,0 +1,2 @@
+# Power-BI-Dashboarding-Project-Proposal---HealthCare-Analyzing-Patient-Wait-List.
+In today's healthcare landscape, efficient patient management is paramount. The patient wait list dataset serves as a critical tool for understanding and optimizing healthcare service delivery. Building comprehensive dashboard reports based on this dataset can significantly enhance operational efficiency, patient satisfaction, and overall quality.
